@@ -1,3 +1,0 @@
-// var jobTemplate = {
-//   jobLi: `<li>`
-// }
